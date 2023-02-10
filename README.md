@@ -1,4 +1,4 @@
-<h1 align="center"> Pamphlet on the Decline of Christianity's Hegemony and the Importance of Spirituality </h1>
+#<h1 align="center"> Pamphlet on the Decline of Christianity's Hegemony and the Importance of Spirituality </h1>
 
 <h3 align="center"> Luke DG </h3>
 
