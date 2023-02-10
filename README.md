@@ -1,3 +1,5 @@
 # LukeMemoir
 
-[Version francaise](../main/2020-2021_DG_LUKE_DéclinDeLHégémonieDuChristianismeDansLeMondeOccidental-EtLImportanceDeLaSpiritualité_VERSION_FRANCAISE.pdf)
+[Version Francaise](../main/2020-2021_DG_LUKE_DéclinDeLHégémonieDuChristianismeDansLeMondeOccidental-EtLImportanceDeLaSpiritualité_VERSION_FRANCAISE.pdf)
+
+[English Version](../main/2020-2021_DG_LUKE_DeclineOfChristianitysHegemonyInTheWesternWorld-AndTheImportanceOfSpirituality_ORIGINAL_VERSION_ENGLISH.pdf)
